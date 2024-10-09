@@ -14,7 +14,7 @@ The final dataset used to train my model.
 # matches.csv
 The initial dataset collected via webscraping.
 # Additional
-My model has a precision score of about 60%. This precision score is fairly low and may be improved however this could be challenging. I believe the low precision score is primarily due to
+My model has a precision score of about 62.5%. This precision score is fairly low and may be improved however this could be challenging. I believe the low precision score is primarily due to
 unpredictable factors inherent to football; teams often go through periods of poor/improved form, lose players and managers through transfers or injury (for players),
 experience lack of funding or experience issues with the board and football (especially the EPL) is an unpredictable game. However, precision may be improved by collecting
 data from more seasons to negate these issues. Other algorithms (models) could also be considered to improve accuracy. In the scraping.ipynb file, I include a sleep function to avoid being blocked by the source website for making too many requests too quickly.
